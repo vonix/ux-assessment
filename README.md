@@ -10,27 +10,27 @@ Não estamos esperando uma solução específica. Se você conseguiu fornecer um
 
 **Brief**
 - Uma grande empresa de cobrança com nome RecupereBem LTDA, precisa ter um acompanhamento em tempo real de suas operações. A principal dor da RecupereBem é a falta de visibilidade e acompanhamento de suas operações.
-- A RecupereBem realiza renegociações de cheques/título/documentos vencidos, seus principais clientes são mercados e lojas.
+- A RecupereBem realiza renegociações de cheques sem fundos/Custódias não pagas/contratos vencidos, seus principais clientes são mercados e lojas.
 - A operação da empresa se resume em ligar para o devedor e propor uma renegociação, oferencendo a retirada de seu nome do SPC/SERASA.
 Dessa maneira, em cada renegociação, se reduz o prejuízos do cliente (mercado/loja).
 
-O setor de operação é divido em equipes de n pessoas e cada equipe possui um supervisor. O supervisor é responsável por orquestrar os documentos de um ou mais clientes, sendo assim, cada supervisor precisa de um dashboard em tempo real que ficará sempre aberto em uma tela na parede, com as seguintes informações:
+O setor de operação é dividido em equipes de **N** pessoas e cada equipe possui um supervisor. O supervisor é responsável por orquestrar os documentos de um ou mais clientes, sendo assim, cada supervisor precisa de um dashboard em tempo real que ficará sempre aberto em uma tela na parede, com as seguintes informações:
 
 - **Dados para uma visão Geral:**
 	 - Total de documentos pendentes no dia;
-	 - Valor total negociado no no dia;
-	 - Quantidade de negociações realizadas no dia;
+	 - Valor total renegociado no no dia;
+	 - Quantidade de renegociações realizadas no dia;
 	 - Tempo médio de atendimento;
 	 - Taxa de conversão (Ex.: Quantos atendimentos acontecem para cada renegociação).
 	 
  - **Dados para acompanhamento da equipe:**
-     - Valor total negociado por cada membro da equipe.
-     - Quantidade de negociações realizadas por cada membro da equipe.
-     - Tempo médio de atendimento de cada membro da equipe. (*tempo de conversa*)
+     - Valor total negociado por cada membro da equipe;
+     - Quantidade de negociações realizadas por cada membro da equipe;
+     - Tempo médio de atendimento de cada membro da equipe (*tempo de conversa*);
      - Taxa de conversão do membro da equipe.
 
 **Desafios técnicos:**
-  - Uma equipe pode ter mais de 100 pessoas trabalhando ao mesmo tempo. Isso significa que a navegação na visão da equipe requer atenção para que o supervisor tenha uma boa experiência.
+  - Uma equipe pode ter mais de 100 pessoas trabalhando ao mesmo tempo. Isso significa que a navegação na visão da equipe, requer uma atenção para que o supervisor tenha boa experiência na navegação de sua equipe.
   - Visualização dos dados de maneira panorâmica, ou seja, o supervisor precisa olhar o dashboard e em poucos segundos entender a situação da equipe.
 
 **O que gostaríamos que você fizesse:**
