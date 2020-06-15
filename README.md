@@ -10,28 +10,33 @@ Não estamos esperando uma solução específica. Se você conseguiu fornecer um
 
 **Brief**
 - Uma grande empresa de cobrança com nome RecupereBem LTDA, precisa ter um acompanhamento em tempo real de suas operações. A principal dor da RecupereBem é a falta de visibilidade e acompanhamento de suas operações.
-- A RecupereBem realiza renegociações de cheques sem fundos/Custódias não pagas/contratos vencidos, seus principais clientes são mercados e lojas.
-- A operação da empresa se resume em ligar para o devedor e propor uma renegociação, oferencendo a retirada de seu nome do SPC/SERASA.
-Dessa maneira, em cada renegociação, se reduz o prejuízos do cliente (mercado/loja).
+- A RecupereBem realiza renegociações de cheques sem fundos, Custódias não pagas e contratos vencidos. Seus principais clientes são mercados e lojas.
+- A operação da empresa se resume em ligar para o devedor e propor uma renegociação do documento, oferencendo a retirada de seu nome do SPC/SERASA. Dessa maneira, em cada renegociação, é reduzido o prejuízo do cliente (mercado/loja).
 
-O setor de operação é dividido em equipes de **N** pessoas e cada equipe possui um supervisor. O supervisor é responsável por orquestrar os documentos de um ou mais clientes, sendo assim, cada supervisor precisa de um dashboard em tempo real que ficará sempre aberto em uma tela na parede, com as seguintes informações:
+O setor de operação é dividido em equipes de **N** pessoas e cada equipe possui um gestor. O gestor é responsável por orquestrar os documentos de um ou mais clientes.
+Os Gestores podem trabalhar com várias equipes, é interessante o gestor ter uma visão baseado em conjuntos de equipes, no estilo “Centro de Custos”, onde uma Diretoria pode avaliar os indicadores das equipes por cada ramo de atuação.
+Com isso a Diretoria da Empresa pode ter os indicadores da equipes de cobranças de banco, cobranças massificadas, Cobranças Educacionais, etc...
 
-- **Dados para uma visão Geral:**
+- **Dados que os getores dizem importantes:**
 	 - Total de documentos pendentes no dia;
 	 - Valor total renegociado no no dia;
 	 - Quantidade de renegociações realizadas no dia;
 	 - Tempo médio de atendimento;
-	 - Taxa de conversão (Ex.: Quantos atendimentos acontecem para cada renegociação).
-	 
- - **Dados para acompanhamento da equipe:**
-     - Valor total negociado por cada membro da equipe;
-     - Quantidade de negociações realizadas por cada membro da equipe;
-     - Tempo médio de atendimento de cada membro da equipe (*tempo de conversa*);
-     - Taxa de conversão do membro da equipe.
+	 - Taxa de conversão (Ex.: Quantos atendimentos acontecem para cada renegociação);
+   - Visão comparativa das equipes;
+   - Métricas de produtividade das equipes.
+
+- **Lembrando que o gestor lida com uma ou mais equipes, ao fazer uma analize de uma equipe específica, o gestor diz ser importante esses dados:**
+   - Valor total negociado por cada membro da equipe;
+   - Quantidade de negociações realizadas por cada membro da equipe;
+   - Tempo médio de atendimento de cada membro da equipe (*tempo de conversa*);
+   - Taxa de conversão do membro da equipe.
 
 **Desafios técnicos:**
-  - Uma equipe pode ter mais de 100 pessoas trabalhando ao mesmo tempo. Isso significa que a navegação na visão da equipe, requer uma atenção para que o supervisor tenha boa experiência na navegação de sua equipe.
-  - Visualização dos dados de maneira panorâmica, ou seja, o supervisor precisa olhar o dashboard e em poucos segundos entender a situação da equipe.
+  - Uma equipe pode ter mais de 100 pessoas trabalhando ao mesmo tempo. Isso significa que a navegação na visão da equipe, requer uma atenção para que o gestor tenha boa experiência na navegação de sua equipe;
+  - Visualização dos dados de maneira panorâmica, ou seja, o gestor precisa olhar o dashboard e em poucos segundos entender a situação da equipe;
+  - A navegação entre as múltiplas equipes onde o gestor é responsáve;
+  - Nem todas as especificações estão detalhadas aqui (propositalmente), tu és livre para tirar suas dúvidas antes de dar o prazo.
 
 **O que gostaríamos que você fizesse:**
   - Analise a problemática existente, conte-nos o que você pensa;
@@ -40,11 +45,11 @@ O setor de operação é dividido em equipes de **N** pessoas e cada equipe poss
   - Traga ideias, conceitos e tudo mais que você acredita que pode agregar valor.
 
 **Dica:**
-  - Na visão dos supervisores, uma apresentação visual de dados sempre facilita a análise rápida dos dados . Ex.: Gráficos, barras, cores, indicando a situação da equipe (alertas, atenção, ...). Assim auxiliando o supervisor na rapidez da tomada de suas decisões.
+  - Na visão dos gestores, uma apresentação visual de dados sempre facilita a análise rápida dos dados . Ex.: Gráficos, barras, cores, indicando a situação da equipe (alertas, atenção, ...). Assim auxiliando o gestor na rapidez da tomada de suas decisões.
 
 **Extras:**
-  - A visualização em mobile é interessante, se tratando que o supervisor e sua equipe pode trabalhar remotamente;
-  -  Dashboard é em tempo real, isso significa que os dados são  atualizados instantaneamente. Ideias para visualizar o histórico por horário são bem vindas.
+  - A visualização em mobile é interessante, se tratando que o gestor e sua equipe pode trabalhar remotamente;
+  -  Dashboard é em tempo real, isso significa que os dados são atualizados instantaneamente. Ideias para visualizar o histórico por horário são bem vindas.
 
 **O que estamos procurando:**
   - Uma abordagem sistemática para resolver desafios.
