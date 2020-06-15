@@ -19,7 +19,7 @@ Com isso a Diretoria da Empresa pode ter os indicadores da equipes de cobranças
 
 - **Dados que os getores dizem importantes:**
 	 - Total de documentos pendentes no dia;
-	 - Valor total renegociado no no dia;
+	 - Valor total renegociado no dia;
 	 - Quantidade de renegociações realizadas no dia;
 	 - Tempo médio de atendimento;
 	 - Taxa de conversão (Ex.: Quantos atendimentos acontecem para cada renegociação);
