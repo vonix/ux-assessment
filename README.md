@@ -23,8 +23,8 @@ Com isso a Diretoria da Empresa pode ter os indicadores da equipes de cobranças
 	 - Quantidade de renegociações realizadas no dia;
 	 - Tempo médio de atendimento;
 	 - Taxa de conversão (Ex.: Quantos atendimentos acontecem para cada renegociação);
-   - Visão comparativa das equipes;
-   - Métricas de produtividade das equipes.
+	 - Visão comparativa das equipes;
+	 - Métricas de produtividade das equipes.
 
 - **Lembrando que o gestor lida com uma ou mais equipes, ao fazer uma analize de uma equipe específica, o gestor diz ser importante esses dados:**
    - Valor total negociado por cada membro da equipe;
@@ -35,8 +35,8 @@ Com isso a Diretoria da Empresa pode ter os indicadores da equipes de cobranças
 **Desafios técnicos:**
   - Uma equipe pode ter mais de 100 pessoas trabalhando ao mesmo tempo. Isso significa que a navegação na visão da equipe, requer uma atenção para que o gestor tenha boa experiência na navegação de sua equipe;
   - Visualização dos dados de maneira panorâmica, ou seja, o gestor precisa olhar o dashboard e em poucos segundos entender a situação da equipe;
-  - A navegação entre as múltiplas equipes onde o gestor é responsáve;
-  - Nem todas as especificações estão detalhadas aqui (propositalmente), tu és livre para tirar suas dúvidas antes de dar o prazo.
+  - A navegação entre as múltiplas equipes onde o gestor é responsável;
+  - Nem todas as especificações estão aqui detalhadas (propositalmente), tu és livre para tirar suas dúvidas antes de dar o prazo.
 
 **O que gostaríamos que você fizesse:**
   - Analise a problemática existente, conte-nos o que você pensa;
